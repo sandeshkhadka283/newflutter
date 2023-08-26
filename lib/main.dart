@@ -132,6 +132,7 @@ class _PokemonListScreenState extends State<PokemonListScreen> {
                         return InkWell(
                           onTap: () {},
                           child: Card(
+                            
                             elevation: 2,
                             margin: const EdgeInsets.symmetric(
                                 horizontal: 16, vertical: 8),

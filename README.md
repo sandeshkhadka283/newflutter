@@ -1,16 +1,26 @@
-# pokeapp
 
-A new Flutter project.
+# Pokemon Application Assignment
 
-## Getting Started
+Pokemon Application showing list of Pokemon from API and filtering the items 
 
-This project is a starting point for a Flutter application.
+## Project Setup Flutter Application
 
-A few resources to get you started if this is your first Flutter project:
+Download flutter SDK of [Flutter](https://flutter.dev/docs/get-started/install/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Unzip the zip archive
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Update the system path to include flutter bin directory
+
+ Run `flutter doctor` to check that all the requirement of flutter development is met.
+
+Install the latest Android Studio, if reported by flutter doctor
+
+ Start an android emulator or connect a real android device to the system.
+
+### Commands
+
+`Flutter run` to run the Project
+
+`Flutter pub get ` to download dependencies
+
+`Flutter create projectname ` to create new project 
